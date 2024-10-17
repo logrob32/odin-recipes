@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+}
+
+a {
+  color: white;
+  background-color: black;
+}
+
+.description {
+  color: darkslategray;
+  background-color: beige;
+}
+
+h2 {
+  color: cyan;
+  background-color: grey;
+}
+
+.bullet {
+  list-style: circle;
+}
